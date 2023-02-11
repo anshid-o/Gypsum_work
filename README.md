@@ -1,7 +1,8 @@
 # workerr
-My final year digree project.
-A new Flutter project using firebase as BaaS.
-Workerr act as a bridge of communication between clients and workers.
+.
+A new Flutter project using Hive databse.
+This app used to calculate messures, store works and used to show images that related to gypsum work.
+I done this app for my father.
 
 ## Getting Started
 
