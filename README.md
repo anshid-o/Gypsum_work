@@ -1,6 +1,7 @@
-# flutter_application_1
-
-A new Flutter project.
+# workerr
+My final year digree project.
+A new Flutter project using firebase as BaaS.
+Workerr act as a bridge of communication between clients and workers.
 
 ## Getting Started
 
